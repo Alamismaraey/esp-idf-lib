@@ -8,7 +8,7 @@ on:
       - synchronize
 
 jobs:
-
+vnn
   prepare:
     name: Prepare CI
     runs-on: ubuntu-latest
